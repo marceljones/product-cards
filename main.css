@@ -1,0 +1,49 @@
+body {
+  background-color: blanchedalmond;
+}
+h3 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: medium;
+}
+
+h2 {
+  background-color: darkslateblue;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: medium; color: whitesmoke;
+  text-align: center;
+  
+
+}
+h1 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-style: italic;
+  font-size: small;
+}
+
+
+
+.card-container {
+  display: flex;
+  flex-flow: row wrap;
+  padding: 40px;
+}
+
+.toy {
+  margin: 10px;
+  border: 3px solid red;
+  padding: 10px;
+}
+
+.toy image {
+  height: 400px;
+}
+
+/* .toy h2 {
+  text-align: center;
+  background-color: black;
+  color: white;
+} */
+
+footer {
+ text-align: center;
+}
